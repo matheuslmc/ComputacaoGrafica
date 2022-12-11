@@ -7,7 +7,7 @@ Exercicios Feitos para a aula de Computação Gráfica.
 Foi utilizado o programa chamado Processing. Após o download do mesmo, copie o código de nome curvaBezier.pde e execute.
 
 ## 🌟 Polígono estrelado (p5)
-Foi utilizado novamente o programa chamado Processing. Execute e copie o codigo de nome poligogo.pde e execute-o.
+Foi utilizado novamente o programa chamado Processing. Execute e copie o codigo de nome poligonoestrelado.pde e execute-o.
 
 ## 🔺 Prisma e Piramide (OPENGL)
 Abra seu terminal e digite: python piramide.py
