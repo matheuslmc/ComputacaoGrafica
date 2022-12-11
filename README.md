@@ -21,7 +21,7 @@ Abra o terminal e digite: python esfera2.py
 Foi realizado uma transformação de uma malha f(x,y) em z, carinhosamente chamada de Caixa de ovos. Para executar. python malhaCaixadeOvos.py
 
 
-##Tutorial Geral do Trabalho
+## Tutorial Geral do Trabalho
 Atenção para as instruções abaixo:
 Para instalar as bibliotecas PyOpenGL, é necessário que se digite pip install PyOpenGL no terminal.
 
