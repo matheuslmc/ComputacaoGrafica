@@ -52,14 +52,18 @@ Para instalar as bibliotecas PyOpenGL, é necessário que se digite no terminal:
 * pyglm
 * pillow 
 
-# CONSTRUÇÕES DO TRABALHO 2 - FINAL
-## Iluminação Esfera
+# Construções do Trabalho 2 - Final
+
+## 🔮 Iluminação Esfera
+
 Abrir o arquivo esferaILUMINADA.py e digitar no terminal: python esferaILUMINADA.py
 
-## Iluminação Piramide
+## 🔺Iluminação Piramide
 
 Abrir o arquivo piramideILUMINADA.py e digitar no terminal: python piramideILUMINADA.py
-## POKEBOLA 
+
+## ⭕ POKEBOLA 
+
 Foi realizado a criação de uma pokebola no Blender e transformada em um arquivo em ply.
 Sendo assim, baixar TUDO o que está na pasta PokebolaFINAL e abrir usando o OpenFOLDER.
 
@@ -67,7 +71,12 @@ Depois disso, abrir o terminal e digitar: python PokebolaApp.py
 
 Foi disponibilizado o arquivo em Blender da Pokebola para fins acadêmicos.
 
-## Esfera com Textura
+A imagem no Blender fica assim: 
+
+![image](https://user-images.githubusercontent.com/34262698/214833054-67d452c9-aac0-4084-bcfb-8a4e90d34eb8.png)
+
+
+## 🏀 Esfera com Textura
 
 A esfera com textura so funcionará se o arquivo textura.png estiver na mesma pasta.
 Apos isso digitar: python3 textura.py
