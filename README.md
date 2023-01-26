@@ -54,8 +54,11 @@ Para instalar as bibliotecas PyOpenGL, é necessário que se digite no terminal:
 
 # CONSTRUÇÕES DO TRABALHO 2 - FINAL
 ## Iluminação Esfera
+Abrir o arquivo esferaILUMINADA.py e digitar no terminal: python esferaILUMINADA.py
+
 ## Iluminação Piramide
 
+Abrir o arquivo piramideILUMINADA.py e digitar no terminal: python piramideILUMINADA.py
 ##
 ## Esfera com Textura
 
