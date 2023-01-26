@@ -52,3 +52,4 @@ Para instalar as bibliotecas PyOpenGL, é necessário que se digite no terminal:
 * pyglm
 * pillow 
 
+# CONSTRUÇÕES DO TRABALHO 2 - FINAL
