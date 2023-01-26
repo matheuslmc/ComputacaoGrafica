@@ -53,3 +53,10 @@ Para instalar as bibliotecas PyOpenGL, é necessário que se digite no terminal:
 * pillow 
 
 # CONSTRUÇÕES DO TRABALHO 2 - FINAL
+
+## Esfera com Textura
+
+A esfera com textura so funcionará se o arquivo textura.png estiver na mesma pasta.
+Apos isso digitar: python3 textura.py
+
+![image](https://user-images.githubusercontent.com/34262698/214825829-db3994c3-0ac2-4c84-8d03-6766a4fab1f9.png)
