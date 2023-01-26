@@ -59,7 +59,14 @@ Abrir o arquivo esferaILUMINADA.py e digitar no terminal: python esferaILUMINADA
 ## Iluminação Piramide
 
 Abrir o arquivo piramideILUMINADA.py e digitar no terminal: python piramideILUMINADA.py
-##
+## POKEBOLA 
+Foi realizado a criação de uma pokebola no Blender e transformada em um arquivo em ply.
+Sendo assim, baixar TUDO o que está na pasta PokebolaFINAL e abrir usando o OpenFOLDER.
+
+Depois disso, abrir o terminal e digitar: python PokebolaApp.py
+
+Foi disponibilizado o arquivo em Blender da Pokebola para fins acadêmicos.
+
 ## Esfera com Textura
 
 A esfera com textura so funcionará se o arquivo textura.png estiver na mesma pasta.
